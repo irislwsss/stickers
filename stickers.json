@@ -3,10 +3,10 @@
   "description": "Sticker metadata for semantic selection. Tags are intentionally short and colloquial so ChatGPT can match by mood/context.",
   "stickers": {
     "Let咪cc.jpeg": ["睇下", "等等", "觀望", "搞笑"],
-    "dont do it.jpeg": ["唔好", "阻止", "拒絕", "警告"],
+    "dont_do_it.jpeg": ["唔好", "阻止", "拒絕", "警告"],
     "hmyeah.jpeg": ["勉強同意", "嗯", "好啦", "敷衍"],
-    "ummm actually.jpeg": ["其實", "糾正", "補充", "認真"],
-    "very on9.jpeg": ["無語", "荒謬", "on9", "嫌棄"],
+    "ummm_actually.jpeg": ["其實", "糾正", "補充", "認真"],
+    "very_on9.jpeg": ["無語", "荒謬", "on9", "嫌棄"],
     "下.jpeg": ["震驚", "疑惑", "蛤", "乜話"],
     "乞丐狗.jpeg": ["求下你", "可憐", "乞求", "窮"],
     "何意味.jpeg": ["疑惑", "咩意思", "問號", "無語"],
@@ -67,6 +67,6 @@
     "被閃醒了.jpeg": ["被閃醒", "太光", "震驚", "搞笑"],
     "貓咪傻眼.jpeg": ["傻眼", "無語", "震驚", "點解"],
     "電子碌柚葉.jpeg": ["驅邪", "去霉運", "搞笑", "淨化"],
-    "餃不撚掂.jpeg": ["搞唔掂", "崩潰", "失敗", "on9" ]
+    "餃不撚掂.jpeg": ["搞唔掂", "崩潰", "失敗", "on9"]
   }
 }
